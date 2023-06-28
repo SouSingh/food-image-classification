@@ -4,7 +4,6 @@ import torchvision
 from torchvision import datasets
 from torchvision import transforms
 from torchvision.transforms import ToTensor
-import matplotlib.pyplot as plt
 from PIL import Image
 from torch.optim import Adam
 from torch import nn, save, load
